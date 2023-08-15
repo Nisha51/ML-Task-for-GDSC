@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Course Recommender</title>
+</head>
+<body>
+    <h1>Course Recommender</h1>
+    <form method="POST">
+        <label for="Career_goal">Career Goal:</label>
+        <input type="text" name="Career_goal"><br>
+        <label for="Subject">Subject:</label>
+            <select name="Subject" id="Subject"> 
+                <option value="Business Finance">Business Finance</option> 
+                <option value="Graphic Design">Graphic Design</option> 
+                <option value="Musical Instruments">Musical Instruments</option> 
+                <option value="Web Development">Web Development</option> 
+            </select>
+            <label for="Background">Background:</label>
+            <select name="Background" id="Background"> 
+                <option value="All Levels">All Levels</option> 
+                <option value="Intermediate Level">Intermediate Level</option> 
+                <option value="Beginner Level">Beginner Level</option> 
+                <option value="Expert Level">Expert Level</option> 
+            </select>
+        <input type="submit" value="Get Recommendations">
+    </form>
+    {% if recommendations %}
+    <h2>Recommended Courses:</h2>
+    <table>
+        {{ recommendations|safe }}
+    </table>
+    {% endif %}
+</body>
+</html>
