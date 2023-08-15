@@ -1,0 +1,98 @@
+course_title,subject,level,price,num_subscribers
+Introduction to Business Finance,Business Finance,All Levels,49.99,2345
+Financial Planning Basics,Business Finance,Beginner Level,29.99,1760
+Advanced Financial Analysis,Business Finance,Intermediate Level,79.99,990
+Corporate Taxation Strategies,Business Finance,Expert Level,99.99,421
+Graphic Design Fundamentals,Graphic Design,Beginner Level,39.99,3150
+Logo Design Mastery,Graphic Design,Intermediate Level,49.99,1489
+Digital Illustration Techniques,Graphic Design,All Levels,59.99,2573
+Playing the Guitar Basics,Musical Instruments,Beginner Level,19.99,5982
+Piano for Beginners,Musical Instruments,Beginner Level,24.99,7124
+Advanced Drumming Techniques,Musical Instruments,Intermediate Level,34.99,1023
+Full Stack Web Development Bootcamp,Web Development,Intermediate Level,149.99,850
+Responsive Web Design Principles,Web Development,All Levels,79.99,2945
+E-commerce Website Development,Web Development,Intermediate Level,99.99,1721
+Mastering Node.js and Express,Web Development,Expert Level,129.99,609
+Introduction to Marketing,Business Finance,All Levels,39.99,1890
+Digital Marketing Strategies,Business Finance,Intermediate Level,59.99,1321
+Social Media Advertising,Business Finance,Beginner Level,29.99,2387
+Financial Modeling for Managers,Business Finance,Expert Level,89.99,760
+Video Editing Fundamentals,Graphic Design,Beginner Level,49.99,2045
+Advanced Photo Manipulation,Graphic Design,Intermediate Level,69.99,976
+Creating Digital Logos,Graphic Design,All Levels,59.99,1485
+Beginner's Guide to Guitar,Musical Instruments,Beginner Level,14.99,6213
+Intermediate Guitar Techniques,Musical Instruments,Intermediate Level,29.99,3184
+Mastering the Piano,Musical Instruments,Expert Level,89.99,1140
+Web Development Fundamentals,Web Development,Beginner Level,39.99,2895
+Building Dynamic Websites,Web Development,Intermediate Level,79.99,1398
+Advanced Web Application Security,Web Development,Expert Level,129.99,514
+Python Programming Basics,Programming,Beginner Level,19.99,3690
+Intermediate Python Programming,Programming,Intermediate Level,49.99,2125
+Mastering Data Structures in Python,Programming,Expert Level,99.99,810
+Introduction to Machine Learning,Data Science,Beginner Level,59.99,1756
+Deep Learning Fundamentals,Data Science,Intermediate Level,79.99,1178
+Advanced Natural Language Processing,Data Science,Expert Level,129.99,402
+Introduction to JavaScript,Web Development,Beginner Level,24.99,2693
+Front-End Web Development Essentials,Web Development,Intermediate Level,59.99,1520
+Advanced React.js Development,Web Development,Expert Level,89.99,748
+HTML and CSS Crash Course,Web Development,Beginner Level,29.99,2890
+Mastering CSS Grid Layouts,Web Development,Intermediate Level,49.99,1295
+Server-side Development with Node.js,Web Development,Intermediate Level,79.99,1020
+Advanced Express.js Framework,Web Development,Expert Level,129.99,487
+Introduction to Accounting,Business Finance,All Levels,39.99,2123
+Managerial Accounting Fundamentals,Business Finance,Beginner Level,29.99,1458
+Cost Analysis and Budgeting,Business Finance,Intermediate Level,59.99,769
+Advanced Financial Reporting,Business Finance,Expert Level,89.99,312
+Graphic Design Principles,Graphic Design,Beginner Level,24.99,1798
+Typography and Layout Design,Graphic Design,Intermediate Level,39.99,915
+Digital Painting Mastery,Graphic Design,Intermediate Level,49.99,672
+UI/UX Design Fundamentals,Graphic Design,All Levels,59.99,2201
+Beginner Violin Techniques,Musical Instruments,Beginner Level,19.99,5430
+Intermediate Violin Techniques,Musical Instruments,Intermediate Level,34.99,2901
+Mastering Guitar Soloing Techniques,Musical Instruments,Intermediate Level,49.99,1862
+Advanced Music Theory for Producers,Musical Instruments,Expert Level,89.99,557
+Vue.js Fundamentals,Web Development,Beginner Level,29.99,1750
+Building Scalable Web Apps with Vue.js,Web Development,Intermediate Level,59.99,1098
+Advanced State Management with Vuex,Web Development,Expert Level,99.99,369
+Introduction to Financial Markets,Business Finance,All Levels,39.99,1975
+Stock Trading Strategies,Business Finance,Intermediate Level,69.99,840
+Options and Derivatives Trading,Business Finance,Expert Level,99.99,286
+Advanced Photoshop Techniques,Graphic Design,Intermediate Level,59.99,1250
+Creating 3D Models with Blender,Graphic Design,All Levels,79.99,891
+User-Centered Design Principles,Graphic Design,Intermediate Level,49.99,1485
+Mastering Adobe Creative Cloud,Graphic Design,Expert Level,129.99,723
+Guitar Chord Progressions,Musical Instruments,Beginner Level,14.99,4690
+Advanced Music Composition Techniques,Musical Instruments,Intermediate Level,34.99,2071
+Digital Music Production with Ableton Live,Musical Instruments,Intermediate Level,79.99,946
+Web Development with Django,Web Development,Intermediate Level,89.99,638
+Full Stack E-commerce Website,Web Development,Expert Level,129.99,409
+Advanced SQL Query Optimization,Database Management,Expert Level,129.99,321
+Introduction to Corporate Finance,Business Finance,All Levels,49.99,1904
+Fashion Design Fundamentals,Design,Beginner Level,39.99,2578
+Advanced Logo Design Techniques,Design,Intermediate Level,59.99,1234
+Music Theory for Beginners,Musical Instruments,Beginner Level,19.99,4536
+Digital Music Production with FL Studio,Musical Instruments,Intermediate Level,79.99,861
+Mobile App Design Principles,Design,Intermediate Level,49.99,1893
+Professional Portrait Photography,Photography,Intermediate Level,69.99,1150
+Digital Marketing Analytics,Marketing,Intermediate Level,79.99,1642
+Advanced Financial Management Strategies,Business Finance,Expert Level,99.99,632
+User Interface (UI) Design Fundamentals,Design,Beginner Level,29.99,2789
+Creating Interactive Web Applications,Web Development,Intermediate Level,89.99,795
+Blockchain Technology Fundamentals,Technology,All Levels,59.99,2345
+Introduction to 3D Animation,Animation,Beginner Level,49.99,1687
+Advanced Video Editing Techniques,Video Production,Intermediate Level,79.99,1142
+Music Production with Logic Pro X,Musical Instruments,Intermediate Level,89.99,998
+Digital Advertising Strategies,Marketing,Intermediate Level,49.99,2413
+Introduction to Artificial Intelligence,Technology,Beginner Level,39.99,2896
+Creative Writing Workshop,Writing,All Levels,29.99,1935
+Advanced Data Visualization with D3.js,Data Science,Expert Level,129.99,451
+Advanced JavaScript Frameworks,Web Development,Expert Level,99.99,587
+Introduction to Interior Design,Design,Beginner Level,24.99,3010
+Advanced Photo Retouching Techniques,Photography,Intermediate Level,59.99,1478
+Music Composition for Film and TV,Musical Instruments,Intermediate Level,69.99,763
+Social Media Marketing Strategies,Marketing,Intermediate Level,49.99,2165
+Introduction to Cybersecurity,Technology,Beginner Level,39.99,1579
+Advanced Python Programming,Programming,Intermediate Level,79.99,899
+Introduction to Digital Painting,Art,Beginner Level,19.99,4225
+Advanced Game Development with Unity,Game Development,Expert Level,129.99,703
+Introduction to Human-Centered Design,Design,Beginner Level,29.99,2687
