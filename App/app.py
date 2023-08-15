@@ -13,7 +13,7 @@ pd.options.mode.chained_assignment = None
 def load_data(data):
     df = pd.read_csv(data)
     return df
-#Vectorizing our data
+#Vectorizing our data and building cosine similarity matrix
 def vectorize_text_to_cosine_mat(data):
     count_vect = CountVectorizer()
     cv_mat = count_vect.fit_transform(data)
