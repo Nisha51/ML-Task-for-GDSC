@@ -8,6 +8,10 @@ Pandas,
 Scikit-learn,
 Flask
 
+Install the dependencies using the command-
+
+pip install pandas scikit-learn flask
+
 Since we weren't provided with a dataset, this is built on a randomly generated dataset.
 
 On running the app.py, we should get an ip address to access the web app.
