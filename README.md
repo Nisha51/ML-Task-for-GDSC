@@ -9,3 +9,6 @@ Scikit-learn
 Flask
 
 Since we weren't provided with a dataset, this is built on a randomly generated dataset
+
+Made by -
+Srijan Biswas
