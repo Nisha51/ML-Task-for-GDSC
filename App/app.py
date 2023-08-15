@@ -9,7 +9,7 @@ num_of_rec = 20
 app = Flask(__name__)
 
 pd.options.mode.chained_assignment = None
-#Loading data into oandas
+#Loading data into pandas
 def load_data(data):
     df = pd.read_csv(data)
     return df
