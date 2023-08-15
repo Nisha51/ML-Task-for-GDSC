@@ -13,13 +13,13 @@ pd.options.mode.chained_assignment = None
 def load_data(data):
     df = pd.read_csv(data)
     return df
-#Vectorizing our data and building cosine similarity matrix
+#Vectorizing our data 
 def vectorize_text_to_cosine_mat(data):
     count_vect = CountVectorizer()
     cv_mat = count_vect.fit_transform(data)
     cosine_sim_mat = cosine_similarity(cv_mat)
     return cosine_sim_mat
-#Main function
+#Main function for building cosine similarity matrix
 def recommend(career_goal, bg, subject):
     df = load_data('udemy_courses_random.csv')
     new_row = {'course_title': career_goal, 'level': bg, 'subject': subject}
